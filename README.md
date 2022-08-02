@@ -32,7 +32,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dahvid12/dm_data6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@dahvid12/APStatsMeanDist?embed=true"></iframe>
+<iframe frameborder="0" width="100%" height="300px" src="https://replit.com/@dahvid12/APStatsMeanDist?embed=true?lite=false"></iframe>
 
 ### Support or Contact
 
